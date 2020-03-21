@@ -1,2 +1,2 @@
-# My-First-case-study
-My project 
+## Betting Application (Research, Design & Testing)
+ 
